@@ -1,6 +1,6 @@
 # cGPT_wo_NN
 Text Generation with a graph rather than neural networks
-
+REQUIREMENTS: python nltk package
 Usage:
 RUN docGraphUI.py as
 python3 docGraphUI.py training_document.txt -h<N> -<mode>
