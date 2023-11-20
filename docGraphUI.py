@@ -1,5 +1,5 @@
-import cGPT_wo_NN
-from cGPT_wo_NN import get_word_seq, seq_to_sentence, Bloom_Filter, doc_graph
+import Graph_Learner
+from Graph_Learner import get_word_seq, seq_to_sentence, Bloom_Filter, doc_graph
 import sys
 import random
 
